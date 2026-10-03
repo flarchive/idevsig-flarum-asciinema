@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of idevsig/flarum-asciinema.** Not for installation: use [Packagist](https://packagist.org/packages/idevsig/flarum-asciinema) or the [upstream repository](https://github.com/idev-sig/flarum-asciinema).
 
-**0** versions archived · Latest: [`v0.1.1`](https://github.com/flarchive/idevsig-flarum-asciinema/tree/archive/v0.1.1) · License: `Apache-2.0` · Flarum: `^1.0.0 || ^2.0.0`
+**1** versions archived · Latest: [`v0.1.1`](https://github.com/flarchive/idevsig-flarum-asciinema/tree/archive/v0.1.1) · License: `Apache-2.0` · Flarum: `^1.0.0 || ^2.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.1` | 2025-01-21 | `^1.0.0 || ^2.0.0` | [Browse](https://github.com/flarchive/idevsig-flarum-asciinema/tree/archive/v0.1.1) |
 
 Catalog entry: [packages/idevsig-flarum-asciinema.json](https://github.com/flarchive/archive-index/blob/main/packages/idevsig-flarum-asciinema.json)
 
